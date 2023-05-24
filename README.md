@@ -1,7 +1,3 @@
 ### Hello there!
 
-My name is Caio Rulli and I'm a software engineer. Clojure developer by trade,
-having also worked with Java, Javascript and Python, mostly in a backend web
-development context. I am a functional programming enthusiast, I plan on hitting
-my head into a wall until I learn proper Haskell, and, well, who knows what
-next. I also really like Linux and gaming.
+My name is Caio Rulli and I'm a software engineer. I have worked with many different languages, but I like to play around with functional languages, Rust, and Linux.
